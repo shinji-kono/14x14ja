@@ -20,7 +20,7 @@ all:    14x14ja.pcf.gz 7x14.pcf.gz  7x14B.pcf.gz
 	bdftopcf 7x14B-new.bdf | gzip > 7x14B.pcf.gz
 
 install:
-	sudo mv -i *.pcf.gz /usr/X11/lib/X11/fonts/misc
+	sudo mv -i *.pcf.gz /opt/X11/lib/X11/fonts/misc
 	xset fp rehash
 	echo please reboot X11
 

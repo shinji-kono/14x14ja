@@ -22227,3 +22227,90 @@ BITMAP
                 
 
 ENDCHAR
+STARTCHAR uni231C
+ENCODING 8988
+SWIDTH 960 0
+DWIDTH 7 0
+BBX 7 14 0 -2
+BITMAP
+                
+                
+********      
+****
+****
+****
+****
+****
+
+
+
+
+                
+                
+
+ENDCHAR
+STARTCHAR uni231D
+ENCODING 8989
+SWIDTH 960 0
+DWIDTH 7 0
+BBX 7 14 0 -2
+BITMAP
+                
+                
+    ********      
+        ****
+        ****
+        ****
+        ****
+        ****
+
+
+
+
+                
+                
+
+ENDCHAR
+STARTCHAR uni231E
+ENCODING 8990
+SWIDTH 960 0
+DWIDTH 7 0
+BBX 7 14 0 -2
+BITMAP
+                
+                
+
+
+
+                
+****
+****
+****
+****
+****
+********      
+                
+
+ENDCHAR
+STARTCHAR uni231F
+ENCODING 8991
+SWIDTH 960 0
+DWIDTH 7 0
+BBX 7 14 0 -2
+BITMAP
+                
+                
+
+
+
+                
+        ****
+        ****
+        ****
+        ****
+        ****
+    ********      
+                
+
+ENDCHAR
+
